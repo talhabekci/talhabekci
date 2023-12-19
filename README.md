@@ -33,17 +33,17 @@
 # 💼 My Toolkit:
 
 ### 🛠 Programming & Development:
-![PHP](https://img.shields.io/badge/php-blue?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ### ☁️ Cloud & DevOps:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📚 Frameworks & Libraries:
-![Laravel](https://img.shields.io/badge/laravel-red?logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-EB4432?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄 Databases:
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3E6E93.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### 🌐 IDEs & Editors:
 ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
