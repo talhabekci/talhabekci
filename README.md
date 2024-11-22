@@ -44,6 +44,7 @@
 
 ### 🗄 Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-3E6E93.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 ### 🌐 IDEs & Editors:
 ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
